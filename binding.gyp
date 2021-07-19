@@ -31,7 +31,7 @@
         "-std=c++0x",
       ],
       'xcode_settings': {
-        'CLANG_CXX_LANGUAGE_STANDARD': 'c++17',
+        'CLANG_CXX_LANGUAGE_STANDARD': 'c++14',
       },
     },
     {
